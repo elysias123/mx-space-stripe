@@ -1,7 +1,13 @@
 添加[云函数](functions/stripe.ts)
 
-<img width="508" height="592" alt="demo" src="https://github.com/user-attachments/assets/1c5ab293-9faa-423b-95eb-a5f44f7626ab" />
+名称: checkout
+引用: stripe
+数据类型: Function
+请求方式: POST
+Secret：key 你的stripe api密钥
 
+
+![image](img/image.png)
 
 ### example：
 ```html
